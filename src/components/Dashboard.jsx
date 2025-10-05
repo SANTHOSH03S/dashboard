@@ -7,7 +7,7 @@ export default function Dashboard() {
   return (
     <div className="p-6">
       <h1 className="text-2xl font-bold">Dashboard</h1>
-
+      <h2>SANTHOSH</h2>
       {/* Login button / icon */}
       <button
         className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
